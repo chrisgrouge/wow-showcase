@@ -1,5 +1,61 @@
 {
   "emails": [{
+    "name": "aft",
+    "headline": "American Federation of Teachers",
+    "website": "https://www.aft.org/education/share-my-lesson",
+    "description": "Profressional learning",
+    "desktop": {
+      "src": "/images/emails/aft/aft.png",
+      "width": 800,
+      "height": 10710
+    },
+    "mobile": {
+      "src": "/images/emails/aft/aft_mobile.png",
+      "width": 400,
+      "height": 16720
+    },
+    "actionShots": [{
+        "name": "aft_action_1",
+        "desktop": {
+          "src": "/images/emails/aft/email_1_desktop.png",
+          "width": 800,
+          "height": 3249
+        },
+        "mobile": {
+          "src": "/images/emails/aft/email_1_mobile.png",
+          "width": 400,
+          "height": 5068
+        }
+      },
+      {
+        "name": "aft_action_2",
+        "desktop": {
+          "src": "/images/emails/aft/email_2_desktop.png",
+          "width": 800,
+          "height": 2621
+        },
+        "mobile": {
+          "src": "/images/emails/aft/email_2_mobile.png",
+          "width": 400,
+          "height": 4356
+        }
+      },
+      {
+        "name": "aft_action_3",
+        "desktop": {
+          "src": "/images/emails/aft/email_3_desktop.png",
+          "width": 800,
+          "height": 3052
+        },
+        "mobile": {
+          "src": "/images/emails/aft/email_3_mobile.png",
+          "width": 400,
+          "height": 5635
+        }
+      }
+    ]
+  },
+    {
       "name": "beckers",
       "headline": "Beckers",
       "website": "https://www.shopbecker.com",
@@ -838,6 +894,25 @@
             "height": 3518
           }
         }
+      ]
+    },
+    {
+      "name": "techsmith",
+      "headline": "TechSmith",
+      "website": "https://www.techsmith.com/",
+      "description": "Tech Software",
+      "desktop": {
+        "src": "/images/emails/techsmith/techsmith_desktop.png",
+        "width": 641,
+        "height": 8023
+      },
+      "mobile": {
+        "src": "/images/emails/techsmith/techsmith_mobile.png",
+        "width": 375,
+        "height": 10920
+      },
+      "actionShots": [
+        
       ]
     },
     {
