@@ -70,11 +70,11 @@ const Navigation = React.forwardRef((props, ref) => {
             />
           </a>
         </Link>
-        <Button
+        {/* <Button
           href="https://www.whereoware.com/contact/"
         >
           contact sales
-        </Button>
+        </Button> */}
       </div>
     </motion.nav>
   );
