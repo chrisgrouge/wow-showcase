@@ -10,23 +10,32 @@
   }
 
   &--container {
-    columns: 4;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    align-content: flex-end;
     column-gap: var(--l-02);
 
-    @include for-laptop-down {
-      columns: 3;
-    }
-
-    @include for-tablet-down {
-      columns: 2;
-      column-gap: var(--l-01);
-    }
 
     .c-ShowcaseListItem {
       width: 100%;
-      display: inline-block;
       margin-bottom: var(--l-02);
       background-color: var(--grey);
+      max-height: 1050px;
+      width: calc(25% - var(--l-02));
+
+      @include for-laptop-down {
+        width: calc(33% - var(--l-02));
+        max-height: 500px;
+      }
+  
+      @include for-tablet-down {
+        width: calc(50% - var(--l-01));
+        column-gap: var(--l-01);
+      }
     }
   }
 }
