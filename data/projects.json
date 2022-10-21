@@ -1,59 +1,71 @@
 {
-  "emails": [
-    {
+  "emails": [{
       "name": "cuisinart",
       "headline": "Cuisinart",
       "website": "https://www.cuisinart.com/",
       "description": "American home appliance brand",
       "desktop": {
         "src": "/images/emails/cuisinart/master.png",
-        "width": 619,
-        "height": 8765
+        "width": 680,
+        "height": 10647
       },
       "mobile": {
-        "src": null,
-        "width": null,
-        "height": null
+        "src": "/images/emails/cuisinart/master_mobile.png",
+        "width": 415,
+        "height": 12137
       },
       "actionShots": [{
-          "name": "cuisinart_action_1",
-          "desktop": {
-            "src": "/images/emails/cuisinart/email_1_desktop.jpg",
-            "width": 619,
-            "height": 4665
-          },
-          "mobile": {
-            "src": "/images/emails/cuisinart/email_1_mobile.jpg",
-            "width": 375,
-            "height": 5585
-          }
+        "name": "cuisinart_action_1",
+        "desktop": {
+          "src": "/images/emails/cuisinart/email_1_desktop.gif",
+          "width": 680,
+          "height": 3105
         },
-        {
-          "name": "cuisinart_action_2",
-          "desktop": {
-            "src": "/images/emails/cuisinart/email_2_desktop.png",
-            "width": 619,
-            "height": 2598
-          },
-          "mobile": {
-            "src": "/images/emails/cuisinart/email_2_mobile.png",
-            "width": 375,
-            "height": 4927
-          }
-        },
-        {
-          "name": "cuisinart_action_3",
-          "desktop": {
-            "src": "/images/emails/cuisinart/email_3_desktop.jpg",
-            "width": 619,
-            "height": 2893
-          },
-          "mobile": {
-            "src": "/images/emails/cuisinart/email_3_mobile.png",
-            "width": 375,
-            "height": 4461
-          }
+        "mobile": {
+          "src": "/images/emails/cuisinart/email_1_mobile.gif",
+          "width": 415,
+          "height": 3743
         }
+      },
+      {
+        "name": "cuisinart_action_2",
+        "desktop": {
+          "src": "/images/emails/cuisinart/email_2_desktop.png",
+          "width": 680,
+          "height": 3100
+        },
+        "mobile": {
+          "src": "/images/emails/cuisinart/email_2_mobile.png",
+          "width": 415,
+          "height": 4888
+        }
+      },
+      {
+        "name": "cuisinart_action_3",
+        "desktop": {
+          "src": "/images/emails/cuisinart/email_3_desktop.png",
+          "width": 680,
+          "height": 3585
+        },
+        "mobile": {
+          "src": "/images/emails/cuisinart/email_3_mobile.png",
+          "width": 415,
+          "height": 5860
+        }
+      },
+      {
+        "name": "cuisinart_action_4",
+        "desktop": {
+          "src": "/images/emails/cuisinart/email_4_desktop.png",
+          "width": 680,
+          "height": 3426
+        },
+        "mobile": {
+          "src": "/images/emails/cuisinart/email_4_mobile.png",
+          "width": 415,
+          "height": 4509
+        }
+      }
       ]
     },
     {
