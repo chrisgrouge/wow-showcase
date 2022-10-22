@@ -88,70 +88,44 @@
       ]
     },
     {
-      "name": "yamaha-bicycles",
-      "headline": "Yamaha Bicycles",
-      "website": "https://www.yamahabicycles.com/",
-      "description": "Electric Bicycles",
+      "name": "yamaha-boats",
+      "headline": "Yamaha Boats",
+      "website": "https://www.yamahaboats.com/",
+      "description": "Jet Boats",
       "desktop": {
-        "src": "/images/emails/yamaha-bicycles/yamaha-bicycles.jpg",
-        "width": 680,
-        "height": 6673
+        "src": "/images/emails/yamaha-boats/boats-main.png",
+        "width": 800,
+        "height": 6525
       },
       "mobile": {
-        "src": null,
-        "width": null,
-        "height": null
+        "src": "/images/emails/yamaha-boats/boats-main-mobile.png",
+        "width": 415,
+        "height": 7640
       },
       "actionShots": [{
-          "name": "yamaha-bicycles_action_1",
+          "name": "yamaha-boats_action_1",
           "desktop": {
-            "src": "/images/emails/yamaha-bicycles/email_1_desktop.png",
-            "width": 660,
-            "height": 2519
+            "src": "/images/emails/yamaha-boats/email_1_desktop.gif",
+            "width": 800,
+            "height": 2728
           },
           "mobile": {
-            "src": "/images/emails/yamaha-bicycles/email_1_mobile.png",
-            "width": 375,
-            "height": 2902
+            "src": "/images/emails/yamaha-boats/email_1_mobile.png",
+            "width": 415,
+            "height": 2666
           }
         },
         {
-          "name": "yamaha-bicycles_action_2",
+          "name": "yamaha-boats_action_2",
           "desktop": {
-            "src": "/images/emails/yamaha-bicycles/email_2_desktop.png",
-            "width": 660,
-            "height": 2639
+            "src": "/images/emails/yamaha-boats/email_2_desktop.png",
+            "width": 800,
+            "height": 3190
           },
           "mobile": {
-            "src": "/images/emails/yamaha-bicycles/email_2_mobile.png",
-            "width": 375,
-            "height": 2840
-          }
-        },
-        {
-          "name": "yamaha-bicycles_action_3",
-          "desktop": {
-            "src": "/images/emails/yamaha-bicycles/email_3_desktop.png",
-            "width": 660,
-            "height": 2519
-          },
-          "mobile": {
-            "src": "/images/emails/yamaha-bicycles/email_3_mobile.png",
-            "width": 375,
-            "height": 2902
-          }
-        },
-        {
-          "name": "yamaha-bicycles_action_4",
-          "desktop": {
-            "src": "/images/emails/yamaha-bicycles/email_4_desktop.png",
-            "width": 660,
-            "height": 2735
-          },
-          "mobile": {
-            "src": "/images/emails/yamaha-bicycles/email_4_mobile.png",
-            "width": 375,
-            "height": 3018
+            "src": "/images/emails/yamaha-boats/email_2_mobile.png",
+            "width": 415,
+            "height": 2867
           }
         }
       ]
@@ -734,6 +708,75 @@
             "src": "/images/emails/brownlow/email_3_mobile.png",
             "width": 375,
             "height": 2405
+          }
+        }
+      ]
+    },
+    {
+      "name": "yamaha-bicycles",
+      "headline": "Yamaha Bicycles",
+      "website": "https://www.yamahabicycles.com/",
+      "description": "Electric Bicycles",
+      "desktop": {
+        "src": "/images/emails/yamaha-bicycles/yamaha-bicycles.jpg",
+        "width": 680,
+        "height": 6673
+      },
+      "mobile": {
+        "src": null,
+        "width": null,
+        "height": null
+      },
+      "actionShots": [{
+          "name": "yamaha-bicycles_action_1",
+          "desktop": {
+            "src": "/images/emails/yamaha-bicycles/email_1_desktop.png",
+            "width": 660,
+            "height": 2519
+          },
+          "mobile": {
+            "src": "/images/emails/yamaha-bicycles/email_1_mobile.png",
+            "width": 375,
+            "height": 2902
+          }
+        },
+        {
+          "name": "yamaha-bicycles_action_2",
+          "desktop": {
+            "src": "/images/emails/yamaha-bicycles/email_2_desktop.png",
+            "width": 660,
+            "height": 2639
+          },
+          "mobile": {
+            "src": "/images/emails/yamaha-bicycles/email_2_mobile.png",
+            "width": 375,
+            "height": 2840
+          }
+        },
+        {
+          "name": "yamaha-bicycles_action_3",
+          "desktop": {
+            "src": "/images/emails/yamaha-bicycles/email_3_desktop.png",
+            "width": 660,
+            "height": 2519
+          },
+          "mobile": {
+            "src": "/images/emails/yamaha-bicycles/email_3_mobile.png",
+            "width": 375,
+            "height": 2902
+          }
+        },
+        {
+          "name": "yamaha-bicycles_action_4",
+          "desktop": {
+            "src": "/images/emails/yamaha-bicycles/email_4_desktop.png",
+            "width": 660,
+            "height": 2735
+          },
+          "mobile": {
+            "src": "/images/emails/yamaha-bicycles/email_4_mobile.png",
+            "width": 375,
+            "height": 3018
           }
         }
       ]
