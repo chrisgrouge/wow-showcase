@@ -88,44 +88,70 @@
       ]
     },
     {
-      "name": "yamaha-boats",
-      "headline": "Yamaha Boats",
-      "website": "https://www.yamahaboats.com/",
-      "description": "Jet Boats",
+      "name": "yamaha-wcg",
+      "headline": "Yamaha Watercraft Group",
+      "website": "https://www.yamahawaverunners.com/",
+      "description": "Boats & Waverunners",
       "desktop": {
-        "src": "/images/emails/yamaha-boats/boats-main.png",
+        "src": "/images/emails/yamaha-wcg/boats-main.png",
         "width": 800,
         "height": 6525
       },
       "mobile": {
-        "src": "/images/emails/yamaha-boats/boats-main-mobile.png",
+        "src": "/images/emails/yamaha-wcg/boats-main-mobile.png",
         "width": 415,
         "height": 7640
       },
       "actionShots": [{
-          "name": "yamaha-boats_action_1",
+          "name": "yamaha-wcg_action_1",
           "desktop": {
-            "src": "/images/emails/yamaha-boats/email_1_desktop.gif",
+            "src": "/images/emails/yamaha-wcg/email_1_desktop.gif",
             "width": 800,
             "height": 2728
           },
           "mobile": {
-            "src": "/images/emails/yamaha-boats/email_1_mobile.png",
+            "src": "/images/emails/yamaha-wcg/email_1_mobile.png",
             "width": 415,
             "height": 2666
           }
         },
         {
-          "name": "yamaha-boats_action_2",
+          "name": "yamaha-wcg_action_2",
           "desktop": {
-            "src": "/images/emails/yamaha-boats/email_2_desktop.png",
+            "src": "/images/emails/yamaha-wcg/email_2_desktop.png",
             "width": 800,
             "height": 3190
           },
           "mobile": {
-            "src": "/images/emails/yamaha-boats/email_2_mobile.png",
+            "src": "/images/emails/yamaha-wcg/email_2_mobile.png",
             "width": 415,
             "height": 2867
+          }
+        },
+        {
+          "name": "yamaha-wcg_action_3",
+          "desktop": {
+            "src": "/images/emails/yamaha-wcg/email_3_desktop.gif",
+            "width": 800,
+            "height": 1720
+          },
+          "mobile": {
+            "src": "/images/emails/yamaha-wcg/email_3_mobile.png",
+            "width": 415,
+            "height": 1668
+          }
+        },
+        {
+          "name": "yamaha-wcg_action_4",
+          "desktop": {
+            "src": "/images/emails/yamaha-wcg/email_4_desktop.png",
+            "width": 800,
+            "height": 2812
+          },
+          "mobile": {
+            "src": "/images/emails/yamaha-wcg/email_4_mobile.png",
+            "width": 415,
+            "height": 2657
           }
         }
       ]
