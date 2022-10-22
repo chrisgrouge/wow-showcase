@@ -24,8 +24,8 @@
       width: 100%;
       margin-bottom: var(--l-04);
       background-color: var(--grey);
-      max-height: 1050px;
-      width: calc(25% - var(--l-02));
+      max-height: 650px;
+      width: calc(20% - var(--l-02));
 
       @include for-laptop-down {
         width: calc(33% - var(--l-02));
