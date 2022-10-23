@@ -476,72 +476,89 @@
       ]
     },
     {
-      "name": "bloomingville",
-      "headline": "Bloomingville",
-      "website": "https://www.bloomingville.us",
-      "description": "Nordic home & interior design",
+      "name": "pitney-bowes-aob",
+      "headline": "Pitney Bowes AOB",
+      "website": "https://www.pitneybowes.com/us",
+      "description": "Global Shipping & Mailing",
       "desktop": {
-        "src": "/images/emails/bloomingville/bloomingville.png",
-        "width": 640,
-        "height": 2582
+        "src": "/images/emails/pitney-bowes-aob/main_desktop.png",
+        "width": 680,
+        "height": 1949
       },
       "mobile": {
-        "src": null,
-        "width": null,
-        "height": null
+        "src": "/images/emails/pitney-bowes-aob/main_mobile.png",
+        "width": 415,
+        "height": 2918
       },
       "actionShots": [{
-          "name": "bloomingville_action_1",
+          "name": "pitney-bowes-aob_action_1",
           "desktop": {
-            "src": "/images/emails/bloomingville/email_1_desktop.png",
-            "width": 621,
-            "height": 1454
+            "src": "/images/emails/pitney-bowes-aob/aob_1_desktop.png",
+            "width": 680,
+            "height": 2369
           },
           "mobile": {
-            "src": "/images/emails/bloomingville/email_1_mobile.png",
-            "width": 375,
-            "height": 3700
+            "src": "/images/emails/pitney-bowes-aob/aob_1_mobile.png",
+            "width": 415,
+            "height": 4198
           }
         },
         {
-          "name": "bloomingville_action_2",
+          "name": "pitney-bowes-aob_action_2",
           "desktop": {
-            "src": "/images/emails/bloomingville/email_2_desktop.png",
-            "width": 619,
-            "height": 1274
+            "src": "/images/emails/pitney-bowes-aob/aob_2_desktop.png",
+            "width": 680,
+            "height": 1575
           },
           "mobile": {
-            "src": "/images/emails/bloomingville/email_2_mobile.png",
-            "width": 375,
-            "height": 4008
-          }
-        },
-        {
-          "name": "bloomingville_action_3",
-          "desktop": {
-            "src": "/images/emails/bloomingville/email_3_desktop.png",
-            "width": 621,
-            "height": 1179
-          },
-          "mobile": {
-            "src": "/images/emails/bloomingville/email_3_mobile.png",
-            "width": 375,
-            "height": 4275
-          }
-        },
-        {
-          "name": "bloomingville_action_4",
-          "desktop": {
-            "src": "/images/emails/bloomingville/email_4_desktop.png",
-            "width": 621,
-            "height": 1240
-          },
-          "mobile": {
-            "src": "/images/emails/bloomingville/email_4_mobile.png",
-            "width": 375,
-            "height": 2790
+            "src": "/images/emails/pitney-bowes-aob/aob_2_mobile.png",
+            "width": 415,
+            "height": 2506
           }
         }
+      ]
+    },
+    {
+      "name": "pitney-bowes-sendtech",
+      "headline": "Pitney Bowes SendTech",
+      "website": "https://www.pitneybowes.com/us",
+      "description": "Same-day Delivery through PitneyShip™",
+      "desktop": {
+        "src": "/images/emails/pitney-bowes-sendtech/newsletter_desktop.png",
+        "width": 680,
+        "height": 3286
+      },
+      "mobile": {
+        "src": "/images/emails/pitney-bowes-sendtech/newsletter_mobile.png",
+        "width": 415,
+        "height": 3804
+      },
+      "actionShots": [{
+        "name": "pitney-bowes-sendtech_action_1",
+        "desktop": {
+          "src": "/images/emails/pitney-bowes-sendtech/newsletter_1_desktop.png",
+          "width": 680,
+          "height": 2536
+        },
+        "mobile": {
+          "src": "/images/emails/pitney-bowes-sendtech/newsletter_1_mobile.png",
+          "width": 415,
+          "height": 2960
+        }
+      },
+      {
+        "name": "pitney-bowes-sendtech_action_2",
+        "desktop": {
+          "src": "/images/emails/pitney-bowes-sendtech/newsletter_2_desktop.png",
+          "width": 680,
+          "height": 2632
+        },
+        "mobile": {
+          "src": "/images/emails/pitney-bowes-sendtech/newsletter_2_mobile.png",
+          "width": 415,
+          "height": 2861
+        }
+      }
       ]
     },
     {
@@ -678,6 +695,75 @@
             "src": "/images/emails/ganz/email_5_mobile.jpg",
             "width": 375,
             "height": 5311
+          }
+        }
+      ]
+    },
+    {
+      "name": "bloomingville",
+      "headline": "Bloomingville",
+      "website": "https://www.bloomingville.us",
+      "description": "Nordic home & interior design",
+      "desktop": {
+        "src": "/images/emails/bloomingville/bloomingville.png",
+        "width": 640,
+        "height": 2582
+      },
+      "mobile": {
+        "src": null,
+        "width": null,
+        "height": null
+      },
+      "actionShots": [{
+          "name": "bloomingville_action_1",
+          "desktop": {
+            "src": "/images/emails/bloomingville/email_1_desktop.png",
+            "width": 621,
+            "height": 1454
+          },
+          "mobile": {
+            "src": "/images/emails/bloomingville/email_1_mobile.png",
+            "width": 375,
+            "height": 3700
+          }
+        },
+        {
+          "name": "bloomingville_action_2",
+          "desktop": {
+            "src": "/images/emails/bloomingville/email_2_desktop.png",
+            "width": 619,
+            "height": 1274
+          },
+          "mobile": {
+            "src": "/images/emails/bloomingville/email_2_mobile.png",
+            "width": 375,
+            "height": 4008
+          }
+        },
+        {
+          "name": "bloomingville_action_3",
+          "desktop": {
+            "src": "/images/emails/bloomingville/email_3_desktop.png",
+            "width": 621,
+            "height": 1179
+          },
+          "mobile": {
+            "src": "/images/emails/bloomingville/email_3_mobile.png",
+            "width": 375,
+            "height": 4275
+          }
+        },
+        {
+          "name": "bloomingville_action_4",
+          "desktop": {
+            "src": "/images/emails/bloomingville/email_4_desktop.png",
+            "width": 621,
+            "height": 1240
+          },
+          "mobile": {
+            "src": "/images/emails/bloomingville/email_4_mobile.png",
+            "width": 375,
+            "height": 2790
           }
         }
       ]
