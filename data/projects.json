@@ -75,16 +75,67 @@
       "description": "Tech Software",
       "desktop": {
         "src": "/images/emails/techsmith/techsmith_desktop.png",
-        "width": 641,
-        "height": 8023
+        "width": 680,
+        "height": 7982
       },
       "mobile": {
         "src": "/images/emails/techsmith/techsmith_mobile.png",
-        "width": 375,
-        "height": 10920
+        "width": 415,
+        "height": 10480
       },
       "actionShots": [
-        
+        {
+          "name": "techsmith_action_1",
+          "desktop": {
+            "src": "/images/emails/techsmith/email_1_desktop.png",
+            "width": 680,
+            "height": 1577
+          },
+          "mobile": {
+            "src": "/images/emails/techsmith/email_1_mobile.png",
+            "width": 415,
+            "height": 2037
+          }
+        },
+        {
+          "name": "techsmith_action_2",
+          "desktop": {
+            "src": "/images/emails/techsmith/email_2_desktop.png",
+            "width": 680,
+            "height": 1478
+          },
+          "mobile": {
+            "src": "/images/emails/techsmith/email_2_mobile.png",
+            "width": 415,
+            "height": 2121
+          }
+        },
+        {
+          "name": "techsmith_action_3",
+          "desktop": {
+            "src": "/images/emails/techsmith/email_3_desktop.png",
+            "width": 680,
+            "height": 1051
+          },
+          "mobile": {
+            "src": "/images/emails/techsmith/email_3_mobile.png",
+            "width": 415,
+            "height": 1060
+          }
+        },
+        {
+          "name": "techsmith_action_4",
+          "desktop": {
+            "src": "/images/emails/techsmith/email_4_desktop.png",
+            "width": 680,
+            "height": 1687
+          },
+          "mobile": {
+            "src": "/images/emails/techsmith/email_4_mobile.png",
+            "width": 415,
+            "height": 1720
+          }
+        }
       ]
     },
     {
