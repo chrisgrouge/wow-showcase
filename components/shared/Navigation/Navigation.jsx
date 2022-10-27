@@ -66,7 +66,7 @@ const Navigation = React.forwardRef((props, ref) => {
               className="logo-mark"
               src="/images/logomark.png"
               alt="Whereoware Logo"
-              style={{ maxWidth: 50 }}
+              style={{ maxWidth: 40 }}
             />
           </a>
         </Link>
