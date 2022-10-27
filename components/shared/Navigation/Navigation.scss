@@ -9,8 +9,7 @@
   justify-content: center;
 
   @include for-phone-only {
-    padding-left: var(--c-05);
-    padding-right: var(--c-05);
+    padding: var(--c-05) var(--c-05) !important;
   }
 
   &--wrapper {
