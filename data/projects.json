@@ -213,14 +213,14 @@
       "website": "https://www.giftcraft.com/",
       "description": "Home Decor",
       "desktop": {
-        "src": "/images/emails/giftcraft/giftcraft.png",
-        "width": 600,
-        "height": 5048
+        "src": "/images/emails/giftcraft/main-desktop.png",
+        "width": 640,
+        "height": 5199
       },
       "mobile": {
-        "src": null,
-        "width": null,
-        "height": null
+        "src": "/images/emails/giftcraft/main-mobile.png",
+        "width": 415,
+        "height": 6246
       },
       "actionShots": [{
           "name": "giftcraft_action_1",
