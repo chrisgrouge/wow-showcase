@@ -36,12 +36,12 @@ function PrimaryHeader({ headline = 'Brand' }) {
             <HeaderLink href="/email">
               email
             </HeaderLink>
-            {/* <HeaderLink href="/web">
+            <HeaderLink href="/web">
               web
             </HeaderLink>
             <HeaderLink href="/automation">
               automation
-            </HeaderLink> */}
+            </HeaderLink>
           </div>
         </div>
         <div className="col-right hide">
