@@ -1,4 +1,5 @@
 import React from 'react';
+import { useRouter } from 'next/router';
 import Head from 'next/head';
 import { motion } from 'framer-motion';
 import Layout from '../components/shared/Layout';
@@ -8,6 +9,10 @@ import projects from '../data/projects';
 import pageTransitionVariants from '../utils/pageTransition';
 
 function Home() {
+  // may use this in the future to dynamically filter the <ShowcaseList />
+  const router = useRouter();
+  console.log(router.pathname);
+
   const { emails } = projects;
 
   return (
@@ -22,7 +27,7 @@ function Home() {
         <title>Showcase</title>
       </Head>
       <PrimaryHeader headline="Showcase" />
-      <ShowcaseList emails={emails} />
+      <ShowcaseList work={emails} />
     </motion.div>
   );
 }
