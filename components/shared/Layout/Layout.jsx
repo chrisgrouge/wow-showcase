@@ -33,9 +33,10 @@ function Layout({ children }) {
           <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico" />
         </Head>
         <Navigation ref={nav} />
-        <div style={{
-          marginTop: `${navHeight}px`,
-        }}
+        <div className="header-push"
+        // style={{
+          // marginTop: `${navHeight}px`,
+        // }}
         >
           {children}
         </div>

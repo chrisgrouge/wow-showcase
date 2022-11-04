@@ -1,3 +1,11 @@
 .c-Layout--content {
   margin-top: 100px;
 }
+
+.header-push {
+  margin-top: calc((var(--c-07)*2) + 54px);
+
+  @include for-phone-only {
+    margin-top: calc((var(--c-05)*2) + 40px) !important;
+  }
+}

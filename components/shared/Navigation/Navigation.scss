@@ -4,19 +4,19 @@
   z-index: 999;
   top: 0;
   background-color: #ffffff;
-  padding: var(--c-07) var(--c-07);
   width: 100%;
   justify-content: center;
-
-  @include for-phone-only {
-    padding: var(--c-05) var(--c-05) !important;
-  }
-
+  
   &--wrapper {
     width: var(--main-container-size);
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: var(--c-07) var(--c-07) var(--c-07) calc(var(--c-07) - 15px);
+  
+    @include for-phone-only {
+      padding: var(--c-05) var(--c-05) var(--c-05) calc(var(--c-05) + 12px) !important;
+    }
   }
 
   &.is-scrolling {

@@ -44,7 +44,9 @@ const Navigation = React.forwardRef((props, ref) => {
       ref={ref}
       className="c-Navigation"
       style={{
-        paddingTop: paddingResize, paddingBottom: paddingResize, boxShadow: `
+        // paddingTop: paddingResize,
+        // paddingBottom: paddingResize,
+        boxShadow: `
         0 2.8px 2.2px rgba(0, 0, 0, 0.008),
         0 6.7px 5.3px rgba(0, 0, 0, 0.012),
         0 12.5px 10px rgba(0, 0, 0, 0.015),

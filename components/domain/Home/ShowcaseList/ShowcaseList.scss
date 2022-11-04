@@ -11,8 +11,8 @@
 
   &--container {
     display: flex;
-    align-items: left;
-    justify-content: left;
+    align-items: flex-start;
+    justify-content: space-between;
     flex-direction: row;
     flex-wrap: wrap;
     flex-flow: row wrap;
