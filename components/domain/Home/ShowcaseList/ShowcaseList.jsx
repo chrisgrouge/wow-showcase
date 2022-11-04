@@ -13,7 +13,7 @@ const ShowcaseListContainerVariants = {
   exit: { opacity: 0, y: 50, transition },
 };
 
-function ShowcaseList({ emails }) {
+function ShowcaseList({ work }) {
   return (
     <div className="c-ShowcaseList">
       <div className="c-ShowcaseList--wrapper">
@@ -21,10 +21,10 @@ function ShowcaseList({ emails }) {
           className="c-ShowcaseList--container"
           variants={ShowcaseListContainerVariants}
         >
-          {emails.map((email) => (
+          {work.map((project) => (
             <ShowcaseListItem
-              key={email.name}
-              data={email}
+              key={project.name}
+              data={project}
             />
           ))}
         </motion.div>
@@ -34,7 +34,7 @@ function ShowcaseList({ emails }) {
 }
 
 ShowcaseList.propTypes = {
-  emails: PropTypes.arrayOf(PropTypes.object).isRequired,
+  work: PropTypes.arrayOf(PropTypes.object).isRequired,
 };
 
 export default ShowcaseList;

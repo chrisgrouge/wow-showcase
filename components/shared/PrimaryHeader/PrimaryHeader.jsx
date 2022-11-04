@@ -33,9 +33,15 @@ function PrimaryHeader({ headline = 'Brand' }) {
         <div className="col-left">
           <h1>{headline}</h1>
           <div className="links--wrapper">
-            <HeaderLink href="/">
+            <HeaderLink href="/email">
               email
             </HeaderLink>
+            {/* <HeaderLink href="/web">
+              web
+            </HeaderLink>
+            <HeaderLink href="/automation">
+              automation
+            </HeaderLink> */}
           </div>
         </div>
         <div className="col-right hide">

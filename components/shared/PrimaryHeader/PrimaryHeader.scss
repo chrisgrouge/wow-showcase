@@ -119,6 +119,10 @@
   }
 
   @include for-tablet-down {
+    .col-left {
+      padding: 0;
+    }
+
     .col-right {
       padding: 0;
 
